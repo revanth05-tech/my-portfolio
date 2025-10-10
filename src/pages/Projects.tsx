@@ -4,52 +4,58 @@ import { Button } from "@/components/ui/button";
 
 const projects = [
   {
-    title: "E-Commerce Platform",
-    description: "Full-featured e-commerce solution with payment integration, admin dashboard, and real-time inventory management.",
-    tech: ["React", "Node.js", "MongoDB", "Stripe"],
-    emoji: "🛒",
-    github: "https://github.com",
-    demo: "https://demo.com"
+    title: "ConvoManage (Full Stack)",
+    description:
+      "A complete full-stack conference management platform with attendee, speaker, and session management using Node.js, Express, MongoDB, and EJS.",
+    tech: ["Node.js", "Express", "MongoDB", "EJS", "Bootstrap"],
+    emoji: "🎤",
+    github: "https://github.com/revanth05-tech/convomanage_full_stack",
+    demo: "https://convomanage-fullstack.vercel.app"
   },
   {
-    title: "Task Management App",
-    description: "Collaborative task management tool with real-time updates, team collaboration features, and analytics dashboard.",
-    tech: ["React", "TypeScript", "Firebase", "Tailwind"],
-    emoji: "✅",
-    github: "https://github.com",
-    demo: "https://demo.com"
+    title: "ConvoManage Frontend Dashboard",
+    description:
+      "Interactive conference dashboard UI built with HTML, CSS, and JavaScript for managing events, sessions, and analytics seamlessly.",
+    tech: ["HTML", "CSS", "JavaScript"],
+    emoji: "📊",
+    github: "https://github.com/revanth05-tech/ConvoManage_frontend_Dashboard",
+    demo: "https://convomanage-dashboard.vercel.app"
   },
   {
-    title: "Weather Dashboard",
-    description: "Real-time weather application with interactive maps, forecasts, and location-based alerts.",
-    tech: ["React", "OpenWeather API", "Mapbox", "Chart.js"],
-    emoji: "🌤️",
-    github: "https://github.com",
-    demo: "https://demo.com"
+    title: "Personal Portfolio",
+    description:
+      "A Batman-themed dark glassmorphism portfolio highlighting my skills, projects, and contact information with smooth animations.",
+    tech: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    emoji: "🦇",
+    github: "https://github.com/revanth05-tech/my-portfolio",
+    demo: "https://revanth-portfolio.vercel.app"
   },
   {
-    title: "Social Media Platform",
-    description: "Modern social networking platform with posts, stories, messaging, and user profiles.",
-    tech: ["Next.js", "PostgreSQL", "Redis", "AWS"],
-    emoji: "📱",
-    github: "https://github.com",
-    demo: "https://demo.com"
+    title: "Pinterest Clone",
+    description:
+      "A modern Pinterest-style image-sharing web app clone where users can explore, pin, and view creative inspirations.",
+    tech: ["React", "Tailwind CSS", "Firebase", "Vite"],
+    emoji: "📌",
+    github: "https://github.com/revanth05-tech/pintrest",
+    demo: "https://revanth-pinterest.vercel.app"
   },
   {
-    title: "Portfolio Builder",
-    description: "No-code portfolio builder with drag-and-drop interface, templates, and custom domain support.",
-    tech: ["React", "Express", "MongoDB", "Cloudinary"],
-    emoji: "🎨",
-    github: "https://github.com",
-    demo: "https://demo.com"
+    title: "PinEntry UI",
+    description:
+      "A sleek and secure PIN entry interface component built using modern web technologies, focusing on simplicity and user experience.",
+    tech: ["HTML", "CSS", "JavaScript"],
+    emoji: "🔢",
+    github: "https://github.com/revanth05-tech/Pinentry",
+    demo: "https://revanth-pinentry.vercel.app"
   },
   {
-    title: "AI Chatbot",
-    description: "Intelligent chatbot with natural language processing, context awareness, and multi-language support.",
-    tech: ["Python", "TensorFlow", "React", "FastAPI"],
-    emoji: "🤖",
-    github: "https://github.com",
-    demo: "https://demo.com"
+    title: "System Info Logger",
+    description:
+      "A Node.js utility that logs and displays system information such as CPU, RAM, and storage — useful for backend monitoring and analysis.",
+    tech: ["Node.js", "OS Module", "CLI"],
+    emoji: "💻",
+    github: "https://github.com/revanth05-tech/systeminfologger",
+    demo: "https://systeminfologger.vercel.app"
   }
 ];
 
@@ -66,7 +72,7 @@ const Projects = () => {
               My <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">Projects</span>
             </h1>
             <p className="text-xl text-muted-foreground">
-              Building innovative solutions 🚀
+              Showcasing what I’ve built with passion and code 💫
             </p>
           </div>
 
