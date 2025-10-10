@@ -13,7 +13,7 @@ const Home = () => {
           {/* Hero Section */}
           <div className="space-y-4 animate-fade-in">
             <h1 className="text-5xl md:text-7xl font-bold leading-tight">
-              Hi, I'm <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">Your Name</span>
+              Hi, I'm <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">Revanth</span>
             </h1>
             <p className="text-2xl md:text-3xl text-muted-foreground">
               Full-Stack Developer 💻
