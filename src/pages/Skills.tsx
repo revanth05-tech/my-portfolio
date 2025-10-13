@@ -16,11 +16,10 @@ const skillCategories = [
     title: "Backend Development",
     emoji: "⚙️",
     skills: [
-      { name: "Node.js", level: 90 },
-      { name: "Express", level: 88 },
-      { name: "Python", level: 85 },
-      { name: "PostgreSQL", level: 82 },
-      { name: "MongoDB", level: 87 }
+      { name: "Node.js", level: 80 },
+      { name: "Express", level: 78 },
+      { name: "Python", level: 40 },
+      { name: "MongoDB", level: 67 }
     ]
   },
   {
