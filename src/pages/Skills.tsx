@@ -5,10 +5,10 @@ const skillCategories = [
     title: "Frontend Development",
     emoji: "🎨",
     skills: [
-      { name: "React", level: 95 },
-      { name: "TypeScript", level: 90 },
-      { name: "Tailwind CSS", level: 95 },
-      { name: "Next.js", level: 85 },
+      { name: "React", level: 20 },
+      { name: "JavaScript", level: 70 },
+      { name: "Tailwind CSS", level: 30 },
+      { name: "Next.js", level: 15 },
       { name: "HTML/CSS", level: 98 }
     ]
   },
