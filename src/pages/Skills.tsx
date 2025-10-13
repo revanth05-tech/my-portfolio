@@ -27,9 +27,8 @@ const skillCategories = [
     emoji: "🛠️",
     skills: [
       { name: "Git", level: 93 },
-      { name: "Docker", level: 80 },
       { name: "AWS", level: 78 },
-      { name: "Figma", level: 85 },
+  
       { name: "CI/CD", level: 82 }
     ]
   },
