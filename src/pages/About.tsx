@@ -46,7 +46,7 @@ const About = () => {
               </h2>
               <div className="space-y-6">
                 <div className="glass p-6 rounded-xl">
-                  <h3 className="text-xl font-semibold mb-2">Senior Full-Stack Developer</h3>
+                  <h3 className="text-xl font-semibold mb-2"> Full-Stack Developer</h3>
                   <p className="text-primary mb-2">Tech Company • 2020 - Present</p>
                   <p className="text-muted-foreground">
                     Leading development of enterprise-level web applications, 
