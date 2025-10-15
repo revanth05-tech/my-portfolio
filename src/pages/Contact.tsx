@@ -144,7 +144,7 @@ const Contact = () => {
                 
                 <div className="grid grid-cols-2 gap-4">
                   <a 
-                    href="https://github.com" 
+                    href="https://github.com/revanth05-tech" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="glass p-4 rounded-lg hover-scale hover-glow transition-all flex items-center gap-3"
