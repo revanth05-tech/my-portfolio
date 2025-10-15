@@ -154,7 +154,7 @@ const Contact = () => {
                   </a>
                   
                   <a 
-                    href="https://linkedin.com" 
+                    href="https://www.linkedin.com/in/revanth-yegireddi/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="glass p-4 rounded-lg hover-scale hover-glow transition-all flex items-center gap-3"
