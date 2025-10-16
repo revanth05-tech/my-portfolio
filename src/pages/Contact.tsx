@@ -174,7 +174,7 @@ const Contact = () => {
                   </a>
                   
                   <a 
-                    href="mailto:your.email@example.com"
+                    href="mailto:revanthyegireddi@gmail.com"
                     className="glass p-4 rounded-lg hover-scale hover-glow transition-all flex items-center gap-3"
                   >
                     <Mail size={24} />
